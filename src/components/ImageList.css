@@ -1,0 +1,14 @@
+.image-list {
+  /* width: 100%; */
+  columns: 5;
+  column-gap: 10px;
+  margin: 30px;
+  
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 6px;
+   
+}
